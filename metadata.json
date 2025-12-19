@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Translator",
+  "description": "A real-time voice-to-voice and voice-to-text translation application powered by Gemini 2.5 Live API, supporting seamless multi-language communication.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
